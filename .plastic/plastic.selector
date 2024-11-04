@@ -1,0 +1,4 @@
+repository "Iaconoid@caiocobucci@cloud"
+  path "/"
+    br "/main"
+    co "/main"
